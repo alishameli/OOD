@@ -37,7 +37,7 @@ public class Base extends JFrame {
 	}
 
 	/**
-	 * Create the frame. we should remove main from menus for the next phase...
+	 * Create the frame.
 	 */
 	public Base() {
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
